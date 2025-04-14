@@ -1,5 +1,9 @@
 # Awesome-Embodied-3D-vision
-🎊Welcome to **Awesome-Embodied-3D-Vision**, a comprehensive collection of cutting-edge research papers and resources focused on 3D vision, scene generation, and embodied AI. This repository curates advancements in neural radiance fields, signed distance functions, text-to-image/3D generation, reinforcement learning with human feedback (RLHF), and visual room rearrangement. Whether you're a researcher, student, or practitioner, this resource aims to provide a structured gateway to the latest innovations in creating, understanding, and interacting with 3D environments. Contributions and suggestions are welcome to keep this collection vibrant and up-to-date!
+🎊Welcome to **Awesome-Embodied-3D-Vision**, a comprehensive collection of cutting-edge research papers and resources focused on 3D vision, scene generation, and embodied AI. 
+
+Whether you're a researcher, student, or practitioner, this resource aims to provide a structured gateway to the latest innovations in creating, understanding, and interacting with 3D environments. 
+
+🥺Contributions and suggestions are welcome to keep this collection vibrant and up-to-date!
 
 ## Table of Contents
 - [Awesome 3D Reconstruction](#awesome-3d-reconstruction)
