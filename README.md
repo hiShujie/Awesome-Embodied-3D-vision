@@ -1,5 +1,23 @@
 # Awesome-Embodied-3D-vision
+🎊Welcome to **Awesome-Embodied-3D-Vision**, a comprehensive collection of cutting-edge research papers and resources focused on 3D vision, scene generation, and embodied AI. This repository curates advancements in neural radiance fields, signed distance functions, text-to-image/3D generation, reinforcement learning with human feedback (RLHF), and visual room rearrangement. Whether you're a researcher, student, or practitioner, this resource aims to provide a structured gateway to the latest innovations in creating, understanding, and interacting with 3D environments. Contributions and suggestions are welcome to keep this collection vibrant and up-to-date!
 
+## Table of Contents
+- [Awesome 3D Reconstruction](#awesome-3d-reconstruction)
+  - [Neural Radiance Fields](#neural-radiance-fields)
+  - [Signed Distance Functions](#signed-distance-functions)
+  - [Neural Implicit Surfaces](#neural-implicit-surfaces)
+  - [Monocular Geometric Reconstruction](#monocular-geometric-reconstruction)
+  - [Visual Geometry Transformers](#visual-geometry-transformers)
+  - [Indoor Compositional Reconstruction](#indoor-compositional-reconstruction)
+- [Awesome 3D Scene Generation](#awesome-3d-scene-generation)
+  - [3D Scene Generation](#3d-scene-generation)
+- [Awesome Visual Room Rearrangement](#awesome-visual-room-rearrangement)
+  - [Datasets](#datasets)
+- [Awesome Text-to-Image/3D and RLHF](#awesome-text-to-image3d-and-rlhf)
+  - [Text-to-Image Generation](#text-to-image-generation)
+  - [Text-to-3D & RLHF](#text-to-3d--rlhf)
+  - [Evaluation Metrics](#evaluation-metrics)
+  - [Scene Synthesis and Interaction](#scene-synthesis-and-interaction)
 
 
 ## Awesome 3D Reconstruction
