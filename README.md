@@ -1,5 +1,5 @@
 # Awesome-Embodied-3D-vision
-🎊Welcome to **Awesome-Embodied-3D-Vision**, a comprehensive collection of cutting-edge research papers and resources focused on 3D vision, scene generation, and embodied AI. 
+🎊Welcome to **Awesome-Embodied-3D-Vision**, a comprehensive collection of cutting-edge research papers and resources focused on 3D vision and embodied AI. 
 
 Whether you're a researcher, student, or practitioner, this resource aims to provide a structured gateway to the latest innovations in creating, understanding, and interacting with 3D environments. 
 
